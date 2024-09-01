@@ -16,5 +16,6 @@ docker run -p 3000:3000 -it --rm event-booking
 ## Tech stack
 - React
 - NextJS
+- State management: React Context
 - TypeScript
 - TailwindCSS
