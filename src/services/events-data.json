@@ -1,0 +1,2912 @@
+[
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#ffffff",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F792613509%2F142881010572%2F1%2Foriginal.20240323-013503?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C750%2C375&s=f0dfd0cd2c231854d07fc2713c0a0249",
+      "id": "792613509",
+      "crop_mask": {
+        "width": 750,
+        "height": 375,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F792613509%2F142881010572%2F1%2Foriginal.20240323-013503?auto=format%2Ccompress&q=75&sharp=10&s=4948358e6f35b954046ae55aae7196f3",
+        "width": 750,
+        "height": 521
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2024-06-29T08:33:00",
+        "utc": "2024-06-29T01:33:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "SGD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "928559425237",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=928559425237",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "17689361779",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-09-11",
+    "end_time": "17:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "SGD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 SGD"
+      },
+      "minimum_ticket_price": {
+        "currency": "SGD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 SGD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-13",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/2004",
+        "display_name": "High Tech"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/102",
+        "display_name": "Science & Technology",
+        "localized": {
+          "display_name": "Science & Technology"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/9",
+        "display_name": "Class, Training, or Workshop"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Training",
+        "display_name": "Training",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Conference",
+        "display_name": "Conference",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Vietnam",
+        "display_name": "Vietnam",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Radar",
+        "display_name": "Radar",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Naval",
+        "display_name": "Naval",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "928559425237",
+    "start_time": "08:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "Japan",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "TBSS Center for Electrical and Electronics Engineering",
+      "profile_type": "organizer",
+      "num_followers": 51,
+      "url": "https://www.eventbrite.co.uk/o/tbss-center-for-electrical-and-electronics-engineering-17689361779",
+      "twitter": null,
+      "summary": "TBSS install, commission, integrate and test radar systems, electronic warfare equipment and coastal surveillance systems.TBSS is also a Training and Consultancy provider in our expertise areas..TBSS ...",
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": "events/496332797446014",
+      "num_collections": null,
+      "id": "17689361779",
+      "website_url": null,
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "792613509",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "219512699",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "Naval Radar Training Series 2024 (September Class)",
+    "language": "en-us",
+    "url": "https://www.eventbrite.co.uk/e/naval-radar-training-series-2024-september-class-registration-928559425237",
+    "hide_start_date": false,
+    "summary": "Get ready to dive deep into the world of naval radar technology at our upcoming event in Vietnam, where experts will share their knowledge a",
+    "is_online_event": false,
+    "eid": "928559425237",
+    "published": "2024-06-19T15:43:53Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#ffffff",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F831336249%2F247586997552%2F1%2Foriginal.20240821-104608?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a8f73409ed8597cdc56ac4a00154cae5",
+      "id": "831336249",
+      "crop_mask": {
+        "width": 2160,
+        "height": 1080,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F831336249%2F247586997552%2F1%2Foriginal.20240821-104608?auto=format%2Ccompress&q=75&sharp=10&s=158271275d5f31ab83e4938288eaf533",
+        "width": 2160,
+        "height": 1080
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2024-08-05T00:00:00",
+        "utc": "2024-08-04T17:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "SGD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "975345975067",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=975345975067",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "15769550517",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-09-18",
+    "end_time": "17:30",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "SGD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 SGD"
+      },
+      "minimum_ticket_price": {
+        "currency": "SGD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 SGD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-18",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/1008",
+        "display_name": "Media"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/101",
+        "display_name": "Business & Professional",
+        "localized": {
+          "display_name": "Business & Professional"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/2",
+        "display_name": "Seminar or Talk"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Leaders",
+        "display_name": "Leaders",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Storytelling",
+        "display_name": "Storytelling",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Tec",
+        "display_name": "Tec",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Impactful",
+        "display_name": "Impactful",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Lightpath",
+        "display_name": "Lightpath",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "975345975067",
+    "start_time": "16:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "The Nexus",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Ho Chi Minh City",
+        "country": "Korea",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.7071898",
+        "localized_address_display": "3b Đường Tôn Đức Thắng Quận 1, Ho Chi Minh City, Thành phố Hồ Chí Minh",
+        "address_1": "3b Đường Tôn Đức Thắng",
+        "address_2": "Quận 1",
+        "latitude": "10.7789834",
+        "localized_multi_line_address_display": [
+          "3b Đường Tôn Đức Thắng",
+          "Quận 1",
+          "Ho Chi Minh City, Thành phố Hồ Chí Minh"
+        ],
+        "localized_area_display": "Ho Chi Minh City, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "214679959"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "The Executive Centre (TEC) Community",
+      "profile_type": "organizer",
+      "num_followers": 2833,
+      "url": "https://www.eventbrite.sg/o/the-executive-centre-tec-community-15769550517",
+      "twitter": null,
+      "summary": "The Executive Centre (TEC) is Asia’s premium flexible workspace provider, opened its doors in Hong Kong in 1994 and today boasts over 200+ Centres in 33 cities and 15 markets. It is the third largest ...",
+      "num_saves": null,
+      "image_id": "519560479",
+      "followed_by_you": false,
+      "facebook": "theexecutivecentre",
+      "num_collections": null,
+      "id": "15769550517",
+      "website_url": "https://www.executivecentre.com/",
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "831336249",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "214679959",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "TEC x Lightpath:  Master the Art of Storytelling with Irene Ohler",
+    "language": "en-us",
+    "url": "https://www.eventbrite.sg/e/tec-x-lightpath-master-the-art-of-storytelling-with-irene-ohler-tickets-975345975067",
+    "hide_start_date": false,
+    "summary": "TEC is pleased to collaborate with Lightpath to unlock the insights of The Power of Storytelling.",
+    "is_online_event": false,
+    "eid": "975345975067",
+    "published": "2024-08-05T02:32:11Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#a6a78c",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647466889%2F686361592213%2F1%2Foriginal.20231124-030101?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C688%2C2480%2C1240&s=ec6b93dff3debadd95355da56491a846",
+      "id": "647466889",
+      "crop_mask": {
+        "width": 2480,
+        "height": 1240,
+        "top_left": {
+          "y": 688,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F647466889%2F686361592213%2F1%2Foriginal.20231124-030101?auto=format%2Ccompress&q=75&sharp=10&s=aacec221c6e34cdb4e01f7471fb4fbda",
+        "width": 2481,
+        "height": 3508
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "default_message": "Sales Ended",
+      "sales_status": "sales_ended",
+      "currency": "USD",
+      "message_code": "tickets_with_sales_ended",
+      "message": "Sales Ended",
+      "message_type": "default"
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "765481364367",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=765481364367",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "9779221701",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-09-25",
+    "end_time": "15:45",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "995.00",
+        "value": 99500,
+        "display": "995.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "995.00",
+        "value": 99500,
+        "display": "995.00 USD"
+      },
+      "is_free": false,
+      "has_bogo_tickets": false,
+      "has_available_tickets": false,
+      "is_sold_out": true
+    },
+    "end_date": "2024-09-25",
+    "tags": [
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/102",
+        "display_name": "Science & Technology",
+        "localized": {
+          "display_name": "Science & Technology"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/1",
+        "display_name": "Conference"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Leadership",
+        "display_name": "Leadership",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Automation",
+        "display_name": "Automation",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Cybersecurity",
+        "display_name": "Cybersecurity",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Cloud",
+        "display_name": "Cloud",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Analytics",
+        "display_name": "Analytics",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Digitaltransformation",
+        "display_name": "Digitaltransformation",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Emergingtechnologies",
+        "display_name": "Emergingtechnologies",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "765481364367",
+    "start_time": "08:20",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "Sofitel Saigon Plaza",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Bến Nghé",
+        "country": "Japan",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.7025694",
+        "localized_address_display": "17 Đường Lê Duẩn, Bến Nghé, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "17 Đường Lê Duẩn",
+        "address_2": "",
+        "latitude": "10.7840772",
+        "localized_multi_line_address_display": ["17 Đường Lê Duẩn", "Bến Nghé, Thành phố Hồ Chí Minh 700000"],
+        "localized_area_display": "Bến Nghé, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "185662939"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "OpenGov Asia",
+      "profile_type": "organizer",
+      "num_followers": 2319,
+      "url": "https://www.eventbrite.sg/o/opengov-asia-9779221701",
+      "twitter": "@OpenGov_Asia",
+      "summary": "OpenGov has over 20 years’ experience in providing a platform enabling collaboration. The last 5 years, solely to Public Sector within the Asia Pacific Region, including Australia and New Zealand. We ...",
+      "num_saves": null,
+      "image_id": "18644683",
+      "followed_by_you": false,
+      "facebook": "OpenGov-Asia-1616994275215500",
+      "num_collections": null,
+      "id": "9779221701",
+      "website_url": "http://www.opengovasia.com",
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "647466889",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "185662939",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "Vietnam OpenGov Leadership Forum 2024",
+    "language": "en-gb",
+    "url": "https://www.eventbrite.sg/e/vietnam-opengov-leadership-forum-2024-tickets-765481364367",
+    "hide_start_date": false,
+    "summary": "Sofitel Saigon Plaza\n25 September 2024",
+    "is_online_event": false,
+    "eid": "765481364367",
+    "published": "2023-11-24T07:15:04Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#624673",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F790821219%2F2194580425043%2F1%2Foriginal.20240617-093255?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=030082baf7dccf54c62f5e0b88c82c3a",
+      "id": "790821219",
+      "crop_mask": {
+        "width": 9000,
+        "height": 4500,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F790821219%2F2194580425043%2F1%2Foriginal.20240617-093255?auto=format%2Ccompress&q=75&sharp=10&s=0e8a8f662ff5ddc7baaf134c001258fc",
+        "width": 9001,
+        "height": 4501
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "default_message": "Sold Out",
+      "sales_status": "sold_out",
+      "currency": "USD",
+      "message_code": "tickets_sold_out",
+      "message": "Sold Out",
+      "message_type": "default"
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "925658117347",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=925658117347",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "86895479073",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-09-26",
+    "end_time": "17:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": false,
+      "is_sold_out": true
+    },
+    "end_date": "2024-09-26",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/8999",
+        "display_name": "Other"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/108",
+        "display_name": "Sports & Fitness",
+        "localized": {
+          "display_name": "Sports & Fitness"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/3",
+        "display_name": "Tradeshow, Consumer Show, or Expo"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Outdoor",
+        "display_name": "Outdoor",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/International",
+        "display_name": "International",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Sports",
+        "display_name": "Sports",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Exhibition",
+        "display_name": "Exhibition",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/vietnamsportshow",
+        "display_name": "vietnamsportshow",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "925658117347",
+    "start_time": "09:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "Saigon Exhibition & Convention Center (SECC)",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Khu đô thị Phú Mỹ Hưng",
+        "country": "Japan",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.7213436",
+        "localized_address_display": "799 Đường Nguyễn Văn Linh, Khu đô thị Phú Mỹ Hưng, Thành phố Hồ Chí Minh",
+        "address_1": "799 Đường Nguyễn Văn Linh",
+        "address_2": "",
+        "latitude": "10.7306572",
+        "localized_multi_line_address_display": [
+          "799 Đường Nguyễn Văn Linh",
+          "Khu đô thị Phú Mỹ Hưng, Thành phố Hồ Chí Minh"
+        ],
+        "localized_area_display": "Khu đô thị Phú Mỹ Hưng, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "218769879"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "VINEXAD NATIONAL TRADE FAIR & ADVERTISING JSC",
+      "profile_type": "organizer",
+      "num_followers": 10,
+      "url": "https://www.eventbrite.com/o/vinexad-national-trade-fair-advertising-jsc-86895479073",
+      "twitter": null,
+      "summary": "VINEXAD is a member of the Global Exhibition Association UFI and the Asian Federation of Exhibition and Convention Associations (AFECA).We maintain close collaboration with Trade Promotion Organizatio...",
+      "num_saves": null,
+      "image_id": "790822499",
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "86895479073",
+      "website_url": "https://vinexad.com.vn/en/",
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "790821219",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "218769879",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "THE  VIETNAM INTERNATIONAL  SPORTS & OUTDOOR EXHIBITION (VIETNAM SPORT SHOW)",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/the-vietnam-international-sports-outdoor-exhibition-vietnam-sport-show-tickets-925658117347",
+    "hide_start_date": false,
+    "summary": "Come join us at the Vietnam Sport Show for all things sports and outdoor activities, showcasing the best in international sports and outdoor",
+    "is_online_event": false,
+    "eid": "925658117347",
+    "published": "2024-06-19T09:30:29Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#000000",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F781825729%2F978800746383%2F1%2Foriginal.20240603-152459?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=260%2C0%2C1480%2C740&s=66be8c1c7edbf36fa3a63bd84ae32339",
+      "id": "781825729",
+      "crop_mask": {
+        "width": 1480,
+        "height": 740,
+        "top_left": {
+          "y": 0,
+          "x": 260
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F781825729%2F978800746383%2F1%2Foriginal.20240603-152459?auto=format%2Ccompress&q=75&sharp=10&s=788f4b9fa8067ec09368c26eb99f32a2",
+        "width": 2000,
+        "height": 740
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2024-08-18T00:00:00",
+        "utc": "2024-08-17T17:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "918875921617",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=918875921617",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "58663327773",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-10-06",
+    "end_time": "18:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "106.07",
+        "value": 106,
+        "display": "106.07 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "106.07",
+        "value": 106,
+        "display": "106.07 USD"
+      },
+      "is_free": false,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-10-06",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/19001",
+        "display_name": "Anime/Comics"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/119",
+        "display_name": "Hobbies & Special Interest",
+        "localized": {
+          "display_name": "Hobbies & Special Interest"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/4",
+        "display_name": "Convention"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Event",
+        "display_name": "Event",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Color",
+        "display_name": "Color",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Fiesta",
+        "display_name": "Fiesta",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Paranormal",
+        "display_name": "Paranormal",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Season",
+        "display_name": "Season",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "918875921617",
+    "start_time": "09:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "Trung Tâm Triển Lãm Hội Nghị Quốc Tế Việt Nam",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Tân Chánh Hiệp",
+        "country": "Vietnam",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6283134",
+        "localized_address_display": "Công ty phần mềm Quang Trung #Lô 44, Tân Chánh Hiệp, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "Công ty phần mềm Quang Trung",
+        "address_2": "#Lô 44",
+        "latitude": "10.8559929",
+        "localized_multi_line_address_display": [
+          "Công ty phần mềm Quang Trung",
+          "#Lô 44",
+          "Tân Chánh Hiệp, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Tân Chánh Hiệp, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "199284909"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "YANA MEDIA Co., Ltd",
+      "profile_type": "organizer",
+      "num_followers": 281,
+      "url": "https://www.eventbrite.com/o/yana-media-co-ltd-58663327773",
+      "twitter": null,
+      "summary": null,
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "58663327773",
+      "website_url": null,
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "781825729",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "199284909",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "Color Fiesta season 13: PARANORMAL",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/color-fiesta-season-13-paranormal-tickets-918875921617",
+    "hide_start_date": false,
+    "summary": "Lễ hội sắc màu - Nơi tụ hội của họa sĩ.",
+    "is_online_event": false,
+    "eid": "918875921617",
+    "published": "2024-06-03T15:51:33Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#17486e",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641321399%2F1525449024763%2F1%2Foriginal.20231114-103522?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0a0fe2c3ce7948893561925f830d2469",
+      "id": "641321399",
+      "crop_mask": {
+        "width": 2160,
+        "height": 1080,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F641321399%2F1525449024763%2F1%2Foriginal.20231114-103522?auto=format%2Ccompress&q=75&sharp=10&s=99737bbc5f7f4b9bf85e71ad177171c8",
+        "width": 2160,
+        "height": 1080
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2023-08-10T09:00:00",
+        "utc": "2023-08-10T02:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "705849483807",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=705849483807",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "65047586933",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-10-26",
+    "end_time": "18:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-10-26",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/1011",
+        "display_name": "Investment"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/101",
+        "display_name": "Business & Professional",
+        "localized": {
+          "display_name": "Business & Professional"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/3",
+        "display_name": "Tradeshow, Consumer Show, or Expo"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Finance",
+        "display_name": "Finance",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Investment",
+        "display_name": "Investment",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Financial",
+        "display_name": "Financial",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Cryptocurrency",
+        "display_name": "Cryptocurrency",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Vietnam",
+        "display_name": "Vietnam",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Forex",
+        "display_name": "Forex",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Expo",
+        "display_name": "Expo",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Payments",
+        "display_name": "Payments",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Forextrading",
+        "display_name": "Forextrading",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "705849483807",
+    "start_time": "09:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "InterContinental Saigon, an IHG Hotel",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Hồ Chí Minh",
+        "country": "Vietnam",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.7004923",
+        "localized_address_display": "Đường Lê Duẩn, Hồ Chí Minh, Thành phố Hồ Chí Minh 70000",
+        "postal_code": "70000",
+        "address_1": "Đường Lê Duẩn",
+        "address_2": "",
+        "latitude": "10.7824144",
+        "localized_multi_line_address_display": ["Đường Lê Duẩn", "Hồ Chí Minh, Thành phố Hồ Chí Minh 70000"],
+        "localized_area_display": "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "170424599"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "TFIEXPO",
+      "profile_type": "organizer",
+      "num_followers": 852,
+      "url": "https://www.eventbrite.hk/o/tfiexpo-65047586933",
+      "twitter": null,
+      "summary": "TFIEXPO is the largest company organizing financial and forex events, fairs, expos  in Japan and worldwide since 2015. It has connected over 200 000 investors and financial investor, bankers, traders,...",
+      "num_saves": null,
+      "image_id": "518312709",
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "65047586933",
+      "website_url": null,
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "641321399",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "170424599",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "The Trading Summit 2024（Vietnam）",
+    "language": "en-us",
+    "url": "https://www.eventbrite.hk/e/the-trading-summit-2024vietnam-tickets-705849483807",
+    "hide_start_date": false,
+    "summary": "The largest financial investment expo in Southeast Asia, mainly covering foreign exchange, encryption, payment and other fields.",
+    "is_online_event": false,
+    "eid": "705849483807",
+    "published": "2023-08-24T09:34:35Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": null,
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F718332269%2F222095989875%2F1%2Foriginal.20240313-101252?w=382&auto=format%2Ccompress&q=75&sharp=10&s=86252456b5f92e748357ff5b55a34417",
+      "id": "718332269",
+      "crop_mask": null,
+      "aspect_ratio": "1.91",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F718332269%2F222095989875%2F1%2Foriginal.20240313-101252?auto=format%2Ccompress&q=75&sharp=10&s=f8a80cb3aaca6107e29a7b06738fba77",
+        "width": 1950,
+        "height": 1020
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2024-03-21T00:00:00",
+        "utc": "2024-03-20T17:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "GBP",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "862008981067",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=862008981067",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "31055566823",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2024-11-09",
+    "end_time": "17:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "GBP",
+        "major_value": "100.00",
+        "value": 10000,
+        "display": "100.00 GBP"
+      },
+      "minimum_ticket_price": {
+        "currency": "GBP",
+        "major_value": "50.00",
+        "value": 5000,
+        "display": "50.00 GBP"
+      },
+      "is_free": false,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-11-10",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/2001",
+        "display_name": "Medicine"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/102",
+        "display_name": "Science & Technology",
+        "localized": {
+          "display_name": "Science & Technology"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/1",
+        "display_name": "Conference"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Network",
+        "display_name": "Network",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Conference",
+        "display_name": "Conference",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Veterinary",
+        "display_name": "Veterinary",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/2024",
+        "display_name": "2024",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/vaccinology",
+        "display_name": "vaccinology",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "862008981067",
+    "start_time": "09:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "Biotechnology center of Ho Chi Minh City",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Khu phố 2",
+        "country": "Singapore",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6190317",
+        "localized_address_display": "2374 Quốc lộ 1A, Khu phố 2, Thành phố Hồ Chí Minh",
+        "address_1": "2374 Quốc lộ 1A",
+        "address_2": "",
+        "latitude": "10.8465862",
+        "localized_multi_line_address_display": ["2374 Quốc lộ 1A", "Khu phố 2, Thành phố Hồ Chí Minh"],
+        "localized_area_display": "Khu phố 2, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "202978349"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "International Veterinary Vaccinology Network",
+      "profile_type": "organizer",
+      "num_followers": 344,
+      "url": "https://www.eventbrite.co.uk/o/international-veterinary-vaccinology-network-31055566823",
+      "twitter": "IntVetVaccNet",
+      "summary": null,
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "31055566823",
+      "website_url": "https://www.intvetvaccnet.co.uk/",
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "718332269",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "202978349",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "International Veterinary Vaccinology Network Conference 2024",
+    "language": "en-us",
+    "url": "https://www.eventbrite.co.uk/e/international-veterinary-vaccinology-network-conference-2024-tickets-862008981067",
+    "hide_start_date": false,
+    "summary": "This conference will serve as a unique opportunity for the global veterinary vaccinology community to meet in Vietnam in November 2024.",
+    "is_online_event": false,
+    "eid": "862008981067",
+    "published": "2024-03-21T13:34:23Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#ffffff",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F700494099%2F2018457554983%2F1%2Foriginal.20240219-201241?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C4870%2C2435&s=3d5a37ec22f000d5f65eb9a66edce5dc",
+      "id": "700494099",
+      "crop_mask": {
+        "width": 4870,
+        "height": 2435,
+        "top_left": {
+          "y": 174,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F700494099%2F2018457554983%2F1%2Foriginal.20240219-201241?auto=format%2Ccompress&q=75&sharp=10&s=6dd6fa31371ac80d8431b0c6538a2916",
+        "width": 4870,
+        "height": 2783
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Ho_Chi_Minh",
+        "local": "2024-02-19T00:00:00",
+        "utc": "2024-02-18T17:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "id": "845136745757",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=845136745757",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "79324621463",
+    "dedup": {},
+    "num_children": 1,
+    "debug_info": {},
+    "parent_url": null,
+    "hide_end_date": false,
+    "start_date": "2025-03-12",
+    "end_time": "17:00",
+    "_type": "destination_event",
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2025-03-14",
+    "tags": [
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/101",
+        "display_name": "Business & Professional",
+        "localized": {
+          "display_name": "Business & Professional"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/3",
+        "display_name": "Tradeshow, Consumer Show, or Expo"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Event",
+        "display_name": "Event",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Vietnam",
+        "display_name": "Vietnam",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Horticulture",
+        "display_name": "Horticulture",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/Expo",
+        "display_name": "Expo",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/2025",
+        "display_name": "2025",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "845136745757",
+    "start_time": "09:00",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "Saigon Exhibition and Convention Center",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Ho Chi Minh City",
+        "country": "Singapore",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.7216769",
+        "localized_address_display": "799 Đường Nguyễn Văn Linh, Ho Chi Minh City, Thành phố Hồ Chí Minh 799",
+        "postal_code": "799",
+        "address_1": "799 Đường Nguyễn Văn Linh",
+        "address_2": "",
+        "latitude": "10.7310117",
+        "localized_multi_line_address_display": [
+          "799 Đường Nguyễn Văn Linh",
+          "Ho Chi Minh City, Thành phố Hồ Chí Minh 799"
+        ],
+        "localized_area_display": "Ho Chi Minh City, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "198886249"
+    },
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "Nova Exhibitions BV",
+      "profile_type": "organizer",
+      "num_followers": 11,
+      "url": "https://www.eventbrite.com/o/nova-exhibitions-bv-79324621463",
+      "twitter": null,
+      "summary": null,
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "79324621463",
+      "website_url": null,
+      "num_following": null
+    },
+    "full_description": null,
+    "image_id": "700494099",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": "198886249",
+    "checkout_flow": "widget",
+    "series_id": null,
+    "name": "HortEx Vietnam 2025",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/hortex-vietnam-2025-tickets-845136745757",
+    "hide_start_date": false,
+    "summary": "7th International Exhibition and Conference for Horticultural and Floricultural Production and Processing Technology in Vietnam",
+    "is_online_event": false,
+    "eid": "845136745757",
+    "published": "2024-02-19T20:22:12Z"
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#e2e1df",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F806451959%2F118951084505%2F1%2Foriginal.20240712-035908?w=355&auto=format%2Ccompress&q=75&sharp=10&s=18e7980da9627b6ec4638559b7a60b61",
+      "id": "806451959",
+      "crop_mask": null,
+      "aspect_ratio": "1.775",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F806451959%2F118951084505%2F1%2Foriginal.20240712-035908?auto=format%2Ccompress&q=75&sharp=10&s=224b93d95a411e0602d75003984dad19",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Asia/Jakarta",
+        "local": "2024-07-15T00:00:00",
+        "utc": "2024-07-14T17:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Asia/Jakarta",
+    "id": "945448571127",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "8039767160",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=945448571127",
+    "hide_end_date": false,
+    "start_date": "2024-09-07",
+    "end_time": "23:30",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-07",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/12009",
+        "display_name": "International Affairs"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/112",
+        "display_name": "Government & Politics",
+        "localized": {
+          "display_name": "Government & Politics"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/1",
+        "display_name": "Conference"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/event",
+        "display_name": "event",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/global",
+        "display_name": "global",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/conference",
+        "display_name": "conference",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/townhall",
+        "display_name": "townhall",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/2024",
+        "display_name": "2024",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "945448571127",
+    "start_time": "09:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "Foreign Policy Community of Indonesia (FPCI)",
+      "profile_type": "organizer",
+      "num_followers": 5301,
+      "url": "https://www.eventbrite.com/o/foreign-policy-community-of-indonesia-fpci-8039767160",
+      "twitter": "fpcindo",
+      "summary": null,
+      "num_saves": null,
+      "image_id": "101169614",
+      "followed_by_you": false,
+      "facebook": "FPCINDO",
+      "num_collections": null,
+      "id": "8039767160",
+      "website_url": null,
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "806451959",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Global Town Hall 2024",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/global-town-hall-2024-tickets-945448571127",
+    "hide_start_date": false,
+    "summary": "Keeping Course: Actions and Solutions for a Messy World",
+    "is_online_event": true,
+    "eid": "eptbgbtz",
+    "published": "2024-07-12T04:16:55Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "US",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#21353f",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F825547029%2F2194481678623%2F1%2Foriginal.20240812-202803?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C44%2C1456%2C728&s=e5bdd46b86aaf5155077fab4157457b5",
+      "id": "825547029",
+      "crop_mask": {
+        "width": 1456,
+        "height": 728,
+        "top_left": {
+          "y": 44,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F825547029%2F2194481678623%2F1%2Foriginal.20240812-202803?auto=format%2Ccompress&q=75&sharp=10&s=10264159ccc3d43492de07246f15dce1",
+        "width": 1456,
+        "height": 816
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-08-12T00:00:00",
+        "utc": "2024-08-12T07:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/Los_Angeles",
+    "id": "989222249377",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "86747480283",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=989222249377",
+    "hide_end_date": false,
+    "start_date": "2024-09-11",
+    "end_time": "12:30",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": false,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-11",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/1010",
+        "display_name": "Career"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/101",
+        "display_name": "Business & Professional",
+        "localized": {
+          "display_name": "Business & Professional"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/2",
+        "display_name": "Seminar or Talk"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/job",
+        "display_name": "job",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/career",
+        "display_name": "career",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/interview",
+        "display_name": "interview",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/resume",
+        "display_name": "resume",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "989222249377",
+    "start_time": "12:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "Up Your App",
+      "profile_type": "organizer",
+      "num_followers": 835,
+      "url": "https://www.eventbrite.com/o/up-your-app-86747480283",
+      "twitter": "up_your_app",
+      "summary": "Up Your App'smission is to streamline the job search process by providing custom-crafted resumes and cover letters that help job seekers land their ideal roles. We're dedicated to simplifying applicat...",
+      "num_saves": null,
+      "image_id": "807061089",
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "86747480283",
+      "website_url": "https://upyour.app/optimize-resume-ats",
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "825547029",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "The Job Market in September 2024 + Use AI Resume Tools to Stand Out!",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/the-job-market-in-september-2024-use-ai-resume-tools-to-stand-out-tickets-989222249377",
+    "hide_start_date": false,
+    "summary": "Beat ATS, wow recruiters & land dream roles. Industry trends, expert tips & free AI tool. Level up your career! Follow Up Your App below!",
+    "is_online_event": true,
+    "eid": "epyygfhc",
+    "published": "2024-08-12T19:23:37Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "US",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": null,
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F801100499%2F98139719619%2F1%2Foriginal.20240703-154323?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=138%2C0%2C748%2C374&s=07110b33712eda80eca1a85a4a4aaa5c",
+      "id": "801100499",
+      "crop_mask": {
+        "width": 748,
+        "height": 374,
+        "top_left": {
+          "y": 0,
+          "x": 138
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F801100499%2F98139719619%2F1%2Foriginal.20240703-154323?auto=format%2Ccompress&q=75&sharp=10&s=fe5ca067735ab67c7294652b4e686641",
+        "width": 1024,
+        "height": 374
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/New_York",
+        "local": "2024-07-08T09:00:00",
+        "utc": "2024-07-08T13:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/New_York",
+    "id": "940513349747",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "79396561543",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=940513349747",
+    "hide_end_date": false,
+    "start_date": "2024-09-12",
+    "end_time": "13:00",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 1,
+        "collections": [
+          {
+            "status": "live",
+            "_type": "event_group",
+            "name": "OPM Presents: A Workforce Of The Future",
+            "relative_url": "/cc/opm-presents-a-workforce-of-the-future-3091559",
+            "is_autocreated": false,
+            "absolute_url": "https://www.eventbrite.com/cc/opm-presents-a-workforce-of-the-future-3091559",
+            "summary": "The following webinars focus on different plays in the OPM Workforce of the Future Playbook to support you in implementing these key initiatives. You will hear from subject matter experts in a variety of specialties.",
+            "organization_id": "2009500259773",
+            "image_id": "702914819",
+            "id": "3091559",
+            "organizer_id": "79016197503",
+            "event_ids": [
+              "837563233177",
+              "837602099427",
+              "837603824587",
+              "837618959857",
+              "858862449707",
+              "859560387257",
+              "859565472467",
+              "939866825977",
+              "939871128847",
+              "939878430687",
+              "940493430167",
+              "940506037877",
+              "940511815157",
+              "940512055877",
+              "940513088967",
+              "940513349747",
+              "998426218697"
+            ],
+            "type": "collection",
+            "slug": "opm-presents-a-workforce-of-the-future",
+            "is_private": false
+          }
+        ]
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-12",
+    "tags": [],
+    "eventbrite_event_id": "940513349747",
+    "start_time": "12:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "U.S. Office of Personnel Management (OPM)",
+      "profile_type": "organizer",
+      "num_followers": 1834,
+      "url": "https://www.eventbrite.com/o/us-office-of-personnel-management-opm-79396561543",
+      "twitter": null,
+      "summary": "The U.S. Office of Personnel Management (OPM) serves as the chief human resources agency and personnel policy manager for the Federal Government.",
+      "num_saves": null,
+      "image_id": "701494749",
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "79396561543",
+      "website_url": null,
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "801100499",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Gov2Gov Artificial Intelligence Fundamentals 9/12",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/gov2gov-artificial-intelligence-fundamentals-912-tickets-940513349747",
+    "hide_start_date": false,
+    "summary": "This webinar will equip federal employees with a foundational understanding of artificial intelligence, and how to approach it.",
+    "is_online_event": true,
+    "eid": "940513349747",
+    "published": "2024-07-08T14:25:42Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "US",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#7c7771",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F777833459%2F194857453531%2F1%2Foriginal.20240528-181600?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=42ccc394d986b65249d64114f96699e4",
+      "id": "777833459",
+      "crop_mask": {
+        "width": 2160,
+        "height": 1080,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F777833459%2F194857453531%2F1%2Foriginal.20240528-181600?auto=format%2Ccompress&q=75&sharp=10&s=21e45b9b6235f88adb55cdafcb0efc8c",
+        "width": 2160,
+        "height": 1080
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/New_York",
+        "local": "2024-05-15T18:30:00",
+        "utc": "2024-05-15T22:30:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/New_York",
+    "id": "907292866387",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "40073040353",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=907292866387",
+    "hide_end_date": false,
+    "start_date": "2024-09-13",
+    "end_time": "14:30",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "29.95",
+        "value": 2995,
+        "display": "29.95 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": false,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-13",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/7002",
+        "display_name": "Mental health"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/107",
+        "display_name": "Health & Wellness",
+        "localized": {
+          "display_name": "Health & Wellness"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/9",
+        "display_name": "Class, Training, or Workshop"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/mentalhealth",
+        "display_name": "mentalhealth",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/suicide",
+        "display_name": "suicide",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/suicideprevention",
+        "display_name": "suicideprevention",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/mental_health",
+        "display_name": "mental_health",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/professional_development",
+        "display_name": "professional_development",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/suicide_prevention",
+        "display_name": "suicide_prevention",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/suicide_awareness",
+        "display_name": "suicide_awareness",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/mental_health_training",
+        "display_name": "mental_health_training",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "907292866387",
+    "start_time": "11:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "McLean Hospital",
+      "profile_type": "organizer",
+      "num_followers": 2518,
+      "url": "https://www.eventbrite.com/o/mclean-hospital-40073040353",
+      "twitter": null,
+      "summary": null,
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "40073040353",
+      "website_url": null,
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "777833459",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Heroes of Hope: Championing Suicide Prevention Together",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/heroes-of-hope-championing-suicide-prevention-together-registration-907292866387",
+    "hide_start_date": false,
+    "summary": "Hear from established leaders in the field as they talk about how we can move the needle on suicide prevention.",
+    "is_online_event": true,
+    "eid": "epfmdchx",
+    "published": "2024-05-16T03:33:42Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "US",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": null,
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F795993309%2F484403786717%2F1%2Foriginal.20240625-151704?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4500%2C2250&s=02325cad8d40d17c3a8ec8c364ecf0aa",
+      "id": "795993309",
+      "crop_mask": {
+        "width": 4500,
+        "height": 2250,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F795993309%2F484403786717%2F1%2Foriginal.20240625-151704?auto=format%2Ccompress&q=75&sharp=10&s=b1a39515b8f57593995b177297fdda52",
+        "width": 4500,
+        "height": 2250
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "Europe/London",
+        "local": "2024-06-25T11:00:00",
+        "utc": "2024-06-25T10:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "GBP",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "Europe/London",
+    "id": "927848117697",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "31682152433",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=927848117697",
+    "hide_end_date": false,
+    "start_date": "2024-09-17",
+    "end_time": "14:00",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "GBP",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 GBP"
+      },
+      "minimum_ticket_price": {
+        "currency": "GBP",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 GBP"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-17",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/7003",
+        "display_name": "Medical"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/107",
+        "display_name": "Health & Wellness",
+        "localized": {
+          "display_name": "Health & Wellness"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/2",
+        "display_name": "Seminar or Talk"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/nursing",
+        "display_name": "nursing",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/management",
+        "display_name": "management",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/diabetes",
+        "display_name": "diabetes",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/role",
+        "display_name": "role",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/identifying",
+        "display_name": "identifying",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "927848117697",
+    "start_time": "12:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "RCNi",
+      "profile_type": "organizer",
+      "num_followers": 4246,
+      "url": "https://www.eventbrite.co.uk/o/rcni-31682152433",
+      "twitter": null,
+      "summary": "RCNi is a life-long learning partner for nurses, nursing students and nursing associates. We provide print and digital resources for CPD and revalidation, and a range of events for nurses that contrib...",
+      "num_saves": null,
+      "image_id": "768466559",
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "31682152433",
+      "website_url": "https://rcni.com/rcni-events",
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "795993309",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Identifying and managing type 2 diabetes: the nursing role",
+    "language": "en-us",
+    "url": "https://www.eventbrite.co.uk/e/identifying-and-managing-type-2-diabetes-the-nursing-role-tickets-927848117697",
+    "hide_start_date": false,
+    "summary": "This is an educational webinar sponsored by AstraZeneca and is intended for GB HCPs only.",
+    "is_online_event": true,
+    "eid": "eppxqqgx",
+    "published": "2024-06-25T15:18:41Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "US",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#c5cedd",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F817278869%2F1953598950733%2F1%2Foriginal.20240730-175538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C94%2C1000%2C500&s=c348e576ac7556ec685776426744ad0e",
+      "id": "817278869",
+      "crop_mask": {
+        "width": 1000,
+        "height": 500,
+        "top_left": {
+          "y": 94,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F817278869%2F1953598950733%2F1%2Foriginal.20240730-175538?auto=format%2Ccompress&q=75&sharp=10&s=bc905b62be23bd41face29439a24e7c3",
+        "width": 1000,
+        "height": 806
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/New_York",
+        "local": "2024-07-31T08:00:00",
+        "utc": "2024-07-31T12:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/New_York",
+    "id": "966442965927",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "84880059203",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=966442965927",
+    "hide_end_date": false,
+    "start_date": "2024-09-19",
+    "end_time": "15:00",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-19",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/7002",
+        "display_name": "Mental health"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/107",
+        "display_name": "Health & Wellness",
+        "localized": {
+          "display_name": "Health & Wellness"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/2",
+        "display_name": "Seminar or Talk"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/mentalhealth",
+        "display_name": "mentalhealth",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/lgbtq",
+        "display_name": "lgbtq",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/diverse",
+        "display_name": "diverse",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/rural",
+        "display_name": "rural",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/disparities",
+        "display_name": "disparities",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "966442965927",
+    "start_time": "13:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "National Institute of Mental Health (NIMH)",
+      "profile_type": "organizer",
+      "num_followers": 1593,
+      "url": "https://www.eventbrite.com/o/national-institute-of-mental-health-nimh-84880059203",
+      "twitter": null,
+      "summary": null,
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "84880059203",
+      "website_url": null,
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "817278869",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Timely and Adaptive Strategies to Optimize Suicide Prevention Interventions",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/timely-and-adaptive-strategies-to-optimize-suicide-prevention-interventions-tickets-966442965927",
+    "hide_start_date": false,
+    "summary": "To inform the field on key considerations for developing and testing Just-In-Time Adaptive Interventions for suicide prevention.",
+    "is_online_event": true,
+    "eid": "epxfmtdz",
+    "published": "2024-07-31T16:16:35Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "Canada",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#ffffff",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F742194159%2F977011528923%2F1%2Foriginal.20240412-151750?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C40%2C1280%2C640&s=f6a8cb1dc6a759733bf55b5e5ec368dd",
+      "id": "742194159",
+      "crop_mask": {
+        "width": 1280,
+        "height": 640,
+        "top_left": {
+          "y": 40,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F742194159%2F977011528923%2F1%2Foriginal.20240412-151750?auto=format%2Ccompress&q=75&sharp=10&s=4925f1e12fc1f0c541edd24d583c85c6",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/New_York",
+        "local": "2024-05-31T10:30:00",
+        "utc": "2024-05-31T14:30:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/New_York",
+    "id": "881980135327",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "30164999184",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=881980135327",
+    "hide_end_date": true,
+    "start_date": "2024-09-24",
+    "end_time": "01:00",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-24",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/2001",
+        "display_name": "Medicine"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/102",
+        "display_name": "Science & Technology",
+        "localized": {
+          "display_name": "Science & Technology"
+        }
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/launch",
+        "display_name": "launch",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/space",
+        "display_name": "space",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/nasa",
+        "display_name": "nasa",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/astronauts",
+        "display_name": "astronauts",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/iss",
+        "display_name": "iss",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/spacex",
+        "display_name": "spacex",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "881980135327",
+    "start_time": "00:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "NASA",
+      "profile_type": "organizer",
+      "num_followers": 115926,
+      "url": "https://www.eventbrite.com/o/nasa-30164999184",
+      "twitter": "NASA",
+      "summary": "For more than 60 years, NASA has been breaking barriers to achieve the seemingly impossible. Explore the universe and discover our home planet with us. Join us as we discover and expand knowledge for ...",
+      "num_saves": null,
+      "image_id": "103996170",
+      "followed_by_you": false,
+      "facebook": "54971236771",
+      "num_collections": null,
+      "id": "30164999184",
+      "website_url": "https://www.nasa.gov/",
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "742194159",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "NASA's SpaceX Crew-9 Launch",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/nasas-spacex-crew-9-launch-registration-881980135327",
+    "hide_start_date": true,
+    "summary": "Join NASA to participate online in the launch of the SpaceX Crew-9 mission.",
+    "is_online_event": true,
+    "eid": "emyhbrfz",
+    "published": "2024-05-31T14:51:24Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "Canada",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  },
+  {
+    "image": {
+      "edge_color_set": true,
+      "edge_color": "#2b3039",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d",
+      "id": "682597209",
+      "crop_mask": {
+        "width": 940,
+        "height": 470,
+        "top_left": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "aspect_ratio": "2",
+      "focal_point": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?auto=format%2Ccompress&q=75&sharp=10&s=1d786950efc3af1af8400cf41a2b27ca",
+        "width": 940,
+        "height": 470
+      }
+    },
+    "saves": {
+      "saved_by_you": false
+    },
+    "event_sales_status": {
+      "start_sales_date": {
+        "timezone": "America/Los_Angeles",
+        "local": "2019-06-06T06:00:00",
+        "utc": "2019-06-06T13:00:00Z"
+      },
+      "default_message": null,
+      "sales_status": "on_sale",
+      "currency": "USD",
+      "message_code": null,
+      "message": null,
+      "message_type": null
+    },
+    "timezone": "America/Los_Angeles",
+    "id": "63049080497",
+    "privacy_setting": "unlocked",
+    "tickets_by": "Eventbrite",
+    "primary_organizer_id": "12448110053",
+    "tickets_url": "https://www.eventbrite.com/checkout-external?eid=63049080497",
+    "hide_end_date": false,
+    "start_date": "2024-09-27",
+    "end_time": "12:00",
+    "status": "live",
+    "_type": "destination_event",
+    "public_collections": {
+      "creator_collections": {
+        "object_count": 0,
+        "collections": []
+      }
+    },
+    "ticket_availability": {
+      "maximum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "minimum_ticket_price": {
+        "currency": "USD",
+        "major_value": "0.00",
+        "value": 0,
+        "display": "0.00 USD"
+      },
+      "is_free": true,
+      "has_bogo_tickets": false,
+      "has_available_tickets": true,
+      "is_sold_out": false
+    },
+    "end_date": "2024-09-27",
+    "tags": [
+      {
+        "prefix": "EventbriteSubCategory",
+        "tag": "EventbriteSubCategory/1010",
+        "display_name": "Career"
+      },
+      {
+        "prefix": "EventbriteCategory",
+        "tag": "EventbriteCategory/101",
+        "display_name": "Business & Professional",
+        "localized": {
+          "display_name": "Business & Professional"
+        }
+      },
+      {
+        "prefix": "EventbriteFormat",
+        "tag": "EventbriteFormat/10",
+        "display_name": "Meeting or Networking Event"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/career",
+        "display_name": "career",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/technology",
+        "display_name": "technology",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/diversity",
+        "display_name": "diversity",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/hiring",
+        "display_name": "hiring",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/codingbootcamp",
+        "display_name": "codingbootcamp",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/techjobs",
+        "display_name": "techjobs",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/career_fair",
+        "display_name": "career_fair",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/coding_bootcamp",
+        "display_name": "coding_bootcamp",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/diversity_and_inclusion",
+        "display_name": "diversity_and_inclusion",
+        "prefix": "OrganizerTag"
+      },
+      {
+        "_type": "tag",
+        "tag": "OrganizerTag/hiring_event",
+        "display_name": "hiring_event",
+        "prefix": "OrganizerTag"
+      }
+    ],
+    "eventbrite_event_id": "63049080497",
+    "start_time": "09:00",
+    "primary_organizer": {
+      "_type": "destination_profile",
+      "num_upcoming_events": null,
+      "name": "Tech Career Fair",
+      "profile_type": "organizer",
+      "num_followers": 50960,
+      "url": "https://www.eventbrite.com/o/tech-career-fair-12448110053",
+      "twitter": null,
+      "summary": "Event and partnership organizer collaboration with FSMresearch",
+      "num_saves": null,
+      "image_id": null,
+      "followed_by_you": false,
+      "facebook": null,
+      "num_collections": null,
+      "id": "12448110053",
+      "website_url": null,
+      "num_following": null
+    },
+    "series_id": null,
+    "image_id": "682597209",
+    "is_protected_event": false,
+    "is_cancelled": null,
+    "primary_venue_id": null,
+    "checkout_flow": "widget",
+    "name": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
+    "language": "en-us",
+    "url": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497",
+    "hide_start_date": false,
+    "summary": "Tech Career Fair focus on helping companies achieve their diversity and inclusivity initiative with more diverse non-traditional candidates",
+    "is_online_event": true,
+    "eid": "etmhghy",
+    "published": "2022-07-21T00:32:32Z",
+    "primary_venue": {
+      "_type": "destination_venue",
+      "name": "西贡日航酒店",
+      "venue_profile_id": null,
+      "address": {
+        "city": "Nguyễn Cư Trinh",
+        "country": "Japan",
+        "region": "Thành phố Hồ Chí Minh",
+        "longitude": "106.6829285",
+        "localized_address_display": "235 Đường Nguyễn Văn Cừ, Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000",
+        "postal_code": "700000",
+        "address_1": "235 Đường Nguyễn Văn Cừ",
+        "address_2": "",
+        "latitude": "10.7641288",
+        "localized_multi_line_address_display": [
+          "235 Đường Nguyễn Văn Cừ",
+          "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh 700000"
+        ],
+        "localized_area_display": "Nguyễn Cư Trinh, Thành phố Hồ Chí Minh"
+      },
+      "venue_profile_url": "",
+      "id": "219512699"
+    }
+  }
+]

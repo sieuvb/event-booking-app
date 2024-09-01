@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --primary-color: #e74c3c;
+}
+
+html {
+  color: rgb(var(--foreground-rgb));
+  font-size: 12px;
+}
+
+@screen md {
+  html {
+    font-size: 14px;
+  }
+}
+
+@screen xl {
+  html {
+    font-size: 16px;
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: "Cinzel", serif;
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+  }
+}
+
+@layer components {
+  .fit-w-screen {
+    @apply xl:max-w-[1360px] lg:max-w-[1184px] md:max-w-[680px] w-screen px-4 mx-auto;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.ant-badge > .ant-badge-count {
+  @apply !z-10;
+}
+
+.ant-result {
+  @apply !p-0;
+}
+
+@screen xs {
+  /* styling date picker on mobile devices */
+  .ant-picker-panel:last-child .ant-picker-date-panel {
+    display: none !important;
+  }
+
+  .ant-picker-panel:first-child
+    .ant-picker-date-panel
+    .ant-picker-header-next-btn,
+  .ant-picker-panel:first-child
+    .ant-picker-date-panel
+    .ant-picker-header-super-next-btn {
+    visibility: initial !important;
+  }
+
+  .ant-picker-panel.ant-picker-range-wrapper {
+    min-width: 288px !important;
+  }
+
+  .ant-picker-presets {
+    display: none !important;
+  }
+}

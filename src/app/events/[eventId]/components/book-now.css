@@ -1,0 +1,7 @@
+.highlight > .ant-form-item-row > .ant-form-item-label {
+  @apply font-medium;
+}
+
+.ant-form-item-horizontal .ant-form-item-control {
+  @apply !flex-none;
+}
